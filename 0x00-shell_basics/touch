@@ -1,1 +1,2 @@
 ls -l 3-listfiles
+ls -na 5-listfilesdigitonly
